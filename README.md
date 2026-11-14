@@ -9,9 +9,6 @@ A campus marketplace that keeps electronics and microcontroller gear in circulat
 
 LabLoop is a web platform where verified students list the electronics hardware they own (sensors, microcontrollers, boards, modules) and other students can **rent, buy, or swap** it within campus. An **AI inventory chatbot** turns plain-language requests such as *"I need an ESP32 under 300 taka"* into structured search filters and returns real listings as cards directly in the chat.
 
-> **Short GitHub description (repo "About" field):**
-> Campus marketplace to rent, share, buy, sell & exchange electronics, with an AI chatbot that finds hardware from a single sentence. React + FastAPI + MySQL.
-
 **Suggested topics:** `react` `vite` `fastapi` `mysql` `marketplace` `llm` `chatbot` `tool-calling` `jwt` `campus` `electronics` `university-project`
 
 ---
