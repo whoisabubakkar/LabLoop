@@ -179,12 +179,10 @@ cloudflared tunnel --url http://localhost:5173
 | Abu Bakkar | 0112230090 |
 | Suriya Islam | 011221553 |
 
-*Course project: SE Lab, Section E.*
+*Course project: Software Engineering Lab, Section E.*
+*Course Instructor: Zobaer Ibn Razzaque.*
+
 
 ---
-
-## 📄 License
-
-Released under the [MIT License](LICENSE). *(Change if your course requires otherwise.)*
 
 **Less waste. Lower cost. Faster projects.**
